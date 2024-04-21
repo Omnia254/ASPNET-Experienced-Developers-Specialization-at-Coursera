@@ -24,35 +24,6 @@ using System;
 Console.WriteLine("Hello, world!");
 
 
-Alright! Here's your Week 2 content formatted as a README.md using only * for bullet points and # for headers:
-
-markdown
-Copy code
-# Week 2 Summary
-
-## Introduction to C#
-* C# is a general-purpose high-level programming language supporting multiple paradigms.
-* Intended to be a simple, modern, general-purpose, object-oriented programming language.
-* Intended for use in developing software components suitable for deployment in distributed environments.
-
-## History of C# Version
-* Designed by Anders Hejlsberg from Microsoft in 2000.
-* Approved as an international standard by Ecma in 2002.
-* Microsoft introduced C# along with .NET Framework and Visual Studio as closed source.
-* A decade later, Microsoft released Visual Studio Code, Roslyn (compiler), and the unified .NET platform, all supporting C#, as free, open-source, and cross-platform.
-
-## C# Code Execution
-* Core syntax similar to C, C++, and Java.
-  * Semicolons are used to denote the end of a statement.
-  * Curly brackets are used to group statements.
-  * Variables are assigned using an equals sign, but compared using two consecutive equals signs.
-  * Square brackets are used with arrays.
-
-### Example: Hello World in C# 9
-```csharp
-using System;
-Console.WriteLine("Hello, world!");
-'''
 
 ## Installing and Configuring Visual Studio
 Visual Studio Code, commonly referred to as VS Code, is a source-code editor made by Microsoft.
