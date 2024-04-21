@@ -52,6 +52,7 @@ Copy code
 ```csharp
 using System;
 Console.WriteLine("Hello, world!");
+'''
 
 ## Installing and Configuring Visual Studio
 Visual Studio Code, commonly referred to as VS Code, is a source-code editor made by Microsoft.
