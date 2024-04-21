@@ -18,12 +18,10 @@
   * Variables are assigned using an equals sign, but compared using two consecutive equals signs.
   * Square brackets are used with arrays.
 
-### Example: Hello World in C# 9
+### Example: Hello World in C#
 ```csharp
 using System;
-Console.WriteLine("Hello, world!");
-
-
+Console.WriteLine("Hello, world!");```
 
 ## Installing and Configuring Visual Studio
 Visual Studio Code, commonly referred to as VS Code, is a source-code editor made by Microsoft.
